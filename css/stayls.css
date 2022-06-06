@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 5px;;
+    background-color: #FFB226;
+}
+
+body{
+    background-color: #FFB226;
+}
+
+h1{
+    font-family: pacifico;
+    text-align: center;
+}
+
+.tituloPrincipal{
+    animation-delay: 1s;
+    animation-duration: 2s;
+}
+
+h2{
+font-family: roboto slab;
+text-align: center;
+}
+
+.tituloProductos{
+    animation-delay: 1s;
+    animation-duration: 2s;
+}
+
+h3{
+    font-family: roboto slab;
+text-align: center;
+}
+
+.tituloFooter{
+    animation-delay: 1s;
+    animation-duration: 2s;
+}
+
+h4{
+    font-family: roboto slab;
+text-align: center;
+}
+
+h5{
+    font-family: roboto slab;
+text-align: center;
+}
+
+.textoInicio{
+    text-align: center;
+}
+
+.redes{
+    text-align: start;
+}
+
+.cajaContacto{
+    background-color: beige;
+}
+
+
+.imgProducto1{
+    width: 390px;
+}
+
+.imgProducto2{
+    width: 390px;
+}
+
+
+.imgExtraccion1{
+    width: 400px;
+}
+
+.imgExtraccion2{
+    width: 400px;
+}
+
+
+.mainVideo{
+    width: 101%;
+}
+
+li{
+    border: solid 1px black;
+    padding: 2px;
+    margin: 3px;
+    transition: all 1s;
+
+}
+
+li:hover{
+    background-color: coral;
+    padding: 10px;
+    font-size: 15px;
+}
