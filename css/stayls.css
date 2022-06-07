@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     padding: 5px;;
-    background-color: #FFB226;
 }
 
 body{
@@ -54,6 +53,7 @@ text-align: center;
 
 .redes{
     text-align: start;
+    padding: 15px;
 }
 
 .cajaContacto{
@@ -84,15 +84,16 @@ text-align: center;
 }
 
 li{
-    border: solid 1px black;
-    padding: 2px;
-    margin: 3px;
+    border: solid 1px white;
+    padding: 1px;
+    margin: 1px;
     transition: all 1s;
 
 }
 
 li:hover{
-    background-color: coral;
-    padding: 10px;
-    font-size: 15px;
+    background-color: lightseagreen;
+    padding: 5px;
+    font-size: 10px;
 }
+
